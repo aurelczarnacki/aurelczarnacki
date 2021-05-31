@@ -5,7 +5,7 @@
 <h6 align="center"> 💼 Currently studying at: University of Gdańsk 💼 </h4>
 <h6 align="center"> 📫 Learning: basics of creating apps 📫 </h4>
 <h6 align="center">  </h4>
-<h6 align="center"> 💬 Contact: **aurelczarnacki@gmail.com** 💬</h4>
+<h6 align="center"> 💬 Contact:  aurelczarnacki@gmail.com 💬</h4>
 
 <p align="left">
   
